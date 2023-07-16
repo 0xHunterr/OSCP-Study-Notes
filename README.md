@@ -1,5 +1,4 @@
 # Hunter OSCP-Studying-Notes
-# Ahmed Reda(Hunter)Study Notes
 
 # **Recon**
 
