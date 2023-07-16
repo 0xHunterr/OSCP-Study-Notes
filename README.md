@@ -1,4 +1,4 @@
-# Hunter OSCP-Studying-Notes
+# Hunter OSCP Studying-Notes
 
 # **Recon**
 
